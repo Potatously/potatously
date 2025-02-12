@@ -35,4 +35,4 @@ const recursos = {
 - potatously.contact@gmail.com
 
 ## Frasecita
-> "No puedes controlar el viento, pero puedes ajustar tus velas."*
+> *No puedes controlar el viento, pero puedes ajustar tus velas.*
