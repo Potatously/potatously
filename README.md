@@ -1,6 +1,6 @@
 # Potato | ```Emprendedor```
 
-¡Hola! Soy Cedrick (pseudónimo: Potato), un entusiasta de la filosofía y la programación, con 14 años desde Chile.\
+¡Hola! Soy Cedrick (pseudónimo: Potato), un entusiasta de la filosofía y la programación, con 14 años en Chile.\
 Usufructuario del pensamiento estoico, disfrutón de los deportes, y amante de las pelinegras. 😉
 
 ## Herramientas y habilidades
