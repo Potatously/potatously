@@ -7,7 +7,7 @@ Usufructuario del pensamiento estoico, disfrutón de los deportes, y amante de l
 ```javascript
 const recursos = {
     web: ["HTML5", "CSS", "JavaScript"],
-    aprendiendo: ["Edición", "Modelaje", "Modding"],
+    aprendiendo: ["Edición", "Modelaje 3D", "Modding"],
     herramientas: ["VS Code", "GitHub", "Notion", "Blender", "Davinci Resolve"]
 };
 ```
