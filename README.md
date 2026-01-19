@@ -1,21 +1,20 @@
 # Potato | ```Emprendedor```
 
-¡Hola! Soy Cedrick (pseudónimo: Potato), un entusiasta de la filosofía y la programación, con 14 años en Chile.\
-Usufructuario del pensamiento estoico, disfrutón de los deportes, y amante de las pelinegras. 😉
+¡Hola! Soy Cedrick (pseudónimo: Potato).
 
 ## Herramientas y habilidades
 ```javascript
 const recursos = {
     web: ["HTML5", "CSS", "JavaScript"],
-    aprendiendo: ["Edición", "Modelaje 3D", "Modding"],
-    herramientas: ["VS Code", "GitHub", "Notion", "Blender", "Davinci Resolve"]
+    aprendiendo: ["Edición", "Modding"],
+    herramientas: ["VS Code", "GitHub", "Notion", "Davinci Resolve"]
 };
 ```
 
 ## Proyectos
 **Trabajando actualmente en:**
 - Modpack de optimización para Minecraft
-- Mi sitio web
+- Portafolio web
 
 ## Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Potatously&show_icons=true&theme=dark)
@@ -25,14 +24,9 @@ const recursos = {
 - Desarrollo web
 - Edición de video
 - Gaming y modding
-- Modelado 3D
-- Filosofía
 - Ajedrez
 
 ## Contacto
 - [Linktree](https://linktr.ee/potatously)
-- Blog: Próximamente
+- Portafolio: en desarrollo
 - potatously.contact@gmail.com
-
-## Frasecita
-> *No puedes controlar el viento, pero puedes ajustar tus velas.*
