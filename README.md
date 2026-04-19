@@ -1,13 +1,13 @@
 # Potato | ```Emprendedor```
 
-¡Hola! Soy Cedrick (pseudónimo: Potato).
+¡Hola! Soy Potato.
 
 ## Herramientas y habilidades
 ```javascript
 const recursos = {
-    web: ["HTML5", "CSS", "JavaScript"],
-    aprendiendo: ["Edición", "Modding"],
-    herramientas: ["VS Code", "GitHub", "Notion", "Davinci Resolve"]
+    web: ["React", "CSS", "TypeScript"],
+    aprendiendo: ["Programming", "Modding"],
+    herramientas: ["VS Code", "GitHub", "Inkscape", "Notion"]
 };
 ```
 
@@ -22,9 +22,9 @@ const recursos = {
 
 ## Pasiones e intereses
 - Desarrollo web
-- Edición de video
-- Gaming y modding
+- Modding
 - Ajedrez
+- Pelinegras
 
 ## Contacto
 - [Linktree](https://linktr.ee/potatously)
